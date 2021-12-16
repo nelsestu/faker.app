@@ -1,5 +1,5 @@
-# Faker.js-node-application
-Generate fake data using Faker.js in a Node application. You can use this repository as a template for your own application.
+# faker.app
+Generate fake data using Faker.js in a Node application. generated from [here](https://github.com/justusmbuvi/Faker.js-node-application)
 
 ## Steps
 
@@ -8,7 +8,7 @@ Generate fake data using Faker.js in a Node application. You can use this reposi
 - Add a starting point
 - Add models folder
 - Add a views folder
-- Start MomgoDB
+- Start MongoDB
 - Run the project
 
 ## Results
